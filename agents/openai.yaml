@@ -1,0 +1,4 @@
+interface:
+  display_name: "盐系手帐素材"
+  short_description: "按主题、配色和情绪生成协调的盐系手帐素材页，支持可选拼贴试验"
+  default_prompt: "使用 $salt-journal-materials 生成一套手帐素材：下雨天、蓝色、安静。"
